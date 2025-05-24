@@ -10,8 +10,12 @@ This project focuses on **predicting customer churn** using various machine lear
 
 ## Technologies Used
 
-Python, Scikit-learn, Pandas, Matplotlib
+Python, Scikit-learn, Pandas, **Seaborn**, **Plotly**, Matplotlib
 
 ## Results
 
 The model with the best performance was selected based on **ROC and AUC curves** due to imbalanced data.
+
+## Visualizations
+
+I used **Seaborn** and **Plotly** libraries to create interactive and insightful visualizations that helped uncover trends and patterns in the data.
